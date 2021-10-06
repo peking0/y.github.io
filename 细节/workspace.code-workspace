@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\ysh.github.io"
+		},
+		{
+			"path": "..\\主体"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "主体"
+	}
+}
